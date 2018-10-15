@@ -1,2 +1,2 @@
-# webProject
-Spring mybatis mysql 게시판 CRUD 
+# Spring 게시판 연습
+1차 완료 소스코드
